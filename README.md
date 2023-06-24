@@ -33,9 +33,7 @@
 
 ![screenshot](img/Screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo? Página web Responsive con el código de error 404 no encontrado
+Demo Página web Responsive con el código de error 404 no encontrado
 
 ### Built With
 
