@@ -41,7 +41,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML](https://lenguajehtml.com/))
+- [HTML]((https://lenguajehtml.com/))
 - [CSS]((https://lenguajecss.com/))
 
 ## Features
